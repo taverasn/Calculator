@@ -3,7 +3,7 @@
 
 A browser calculator created using JQuery and JavaScript
 
-## Check it out @ [Calculator]() 🌐
+## Check it out @ [Calculator](https://coolest-calculator.netlify.app/) 🌐
 
 Features:
 - Addition, Subtraction, Division, Multiplication
