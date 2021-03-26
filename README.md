@@ -1,12 +1,25 @@
 # Calculator
+---
 
-A calculator
+A browser calculator created using JQuery and JavaScript
 
-## Version 1.0
+## Check it out @ [Calculator]() 🌐
 
+Features:
+- Addition, Subtraction, Division, Multiplication
+- The ability to clear the output
 
-## Technologies
-- HTML5
-- CSS3
-- JavaScript
-- jQuery v3.5
+---
+
+## Technologies 💻
+- <img src="./images/icons/html5.png" width="27"> HTML5
+- <img src="./images/icons/css.png" width="27"> CSS3
+- <img src="./images/icons/javascript.png" width="27"> JavaScript
+- <img src="./images/icons/jquery.png" width="27"> JQuery
+
+---
+
+## Screenshots 📸
+
+### Landing Page
+<img src="./images/game/landingpage.png" width="200">
