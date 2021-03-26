@@ -22,4 +22,4 @@ Features:
 ## Screenshots 📸
 
 ### Landing Page
-<img src="./images/game/landingpage.png" width="200">
+<img src="./images/app/landingpage.png" width="200">
